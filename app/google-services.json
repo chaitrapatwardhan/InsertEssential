@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "160514236022",
+    "firebase_url": "https://insertessentials.firebaseio.com",
+    "project_id": "insertessentials",
+    "storage_bucket": "insertessentials.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160514236022:android:e1ad096d0fced28fcdc957",
+        "android_client_info": {
+          "package_name": "com.example.insertessential"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160514236022-976p0nsu4sm900c14s0fpgm8kbsbva28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACG0awcGOm9vYEITqIcxUYis355kxjPxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160514236022-976p0nsu4sm900c14s0fpgm8kbsbva28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
